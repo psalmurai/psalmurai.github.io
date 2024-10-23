@@ -217,6 +217,7 @@ footer {
     main {
         width: 95%;
         padding: 0 20px;
+        box-sizing: border-box;
     }
 
     .video-and-images {
@@ -255,6 +256,12 @@ footer {
         width: 100%;
     }
 
+    main {
+        width: 100%;
+        padding: 0 15px;
+        box-sizing: border-box;
+    }
+
     nav ul {
         flex-direction: column;
         align-items: center;
@@ -278,6 +285,12 @@ footer {
     header {
         position: relative;
         width: 100%;
+    }
+
+    main {
+        width: 100%;
+        padding: 0 10px;
+        box-sizing: border-box;
     }
 
     nav ul {

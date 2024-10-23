@@ -16,7 +16,7 @@ header{
     background-color: yellow;
     padding: 10px;
     position: sticky;
-    width: 1500px;
+    width: 100%;
     max-width: 100%;
     top: 0;
     z-index: 1;

@@ -12,14 +12,13 @@ header{
     background-color: yellow;
     padding: 10px;
     position: sticky;
-    width: 100%;
+    width: 1493px;
     max-width: 100%;
     top: 0;
     z-index: 1;
     align-items: center;
     overflow-x: hidden;
     min-height: 80px;
-    box-sizing: border-box;
 }
 
 .main-nav ul {
@@ -252,7 +251,7 @@ footer {
     .about img {
         width: 80%;
         margin: 0 auto;
-        min-width: 150px; /* Maintain a minimum size */
+        min-width: 150px;
     }
 }
 
@@ -293,15 +292,13 @@ footer {
     }
 
     .about article {
-        flex: 1 1 100%;
+        flex: 1 1 1000%;
         text-align: center;
     }
 
     .about img {
         width: 100%;
         height: auto;
-        min-width: 150px; /* Maintain a minimum size */
+        min-width: 60px;
     }
 }
-
-

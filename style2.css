@@ -28,7 +28,6 @@ article h5 {
     text-align: center;
     margin-top: 100px;
     margin-bottom: -30px;
-    margin-left: 50px;
 }
 
 .types ul {
@@ -38,9 +37,9 @@ article h5 {
 }
 
 .types ul li a {
-
     color: #318ce7;
     font-size: 25px;
+    margin: 0 50px;
 }
 
 .types ul li a:hover {

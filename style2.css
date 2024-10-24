@@ -229,7 +229,6 @@ footer {
 
 @media screen and (max-width: 1400px) {
     header {
-        flex-direction: column;
         align-items: center;
         width: 100%; 
         box-sizing: border-box;
